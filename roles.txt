@@ -3,4 +3,5 @@ Roles
 Coder: Emily
 Coder: Dylan
 Book Keeper: Tyler
-milestones: Munayfah
+Milestones: Munayfah
+Paper: Anthony
