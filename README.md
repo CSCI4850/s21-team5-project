@@ -1,4 +1,4 @@
-# s21-team5-project
+# DocuSort
 ## Members
 1. Dylan Fox
 2. Emily Turner
