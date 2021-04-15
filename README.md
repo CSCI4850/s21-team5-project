@@ -1,5 +1,5 @@
 # s21-team5-project
-# Members
+## Members
 1. Dylan Fox
 2. Emily Turner
 3. Tyler Christian
