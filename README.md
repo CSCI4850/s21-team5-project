@@ -5,14 +5,6 @@ This project uses convolution neural networks (CNNs) to "sort" 16 different type
 ![Screen Shot 2021-04-22 at 12 52 23 PM](https://user-images.githubusercontent.com/47064751/115762936-97497780-a369-11eb-9071-d2007a2a0f05.png)
 
 
-## Members
-1. Dylan Fox
-2. Emily Turner
-3. Tyler Christian
-4. Anthony Ghebranious
-5. Munayfah Albaqami
-
-
 # Getting Started
 ## Installing Necessary Programs
 1. JupyterLab - In order to open the iPython notebooks used in this project you'll need to install JupyterLab. You can install this from https://jupyter.org/install  
@@ -25,3 +17,10 @@ You can download our dataset from this link (add link)
 
 ## Demo
 In order to run the project demo, go to the demo folder and click on the Demo.ipynb. This file contains a guided walk-through of the project code and our results.
+
+## Members
+1. Dylan Fox
+2. Emily Turner
+3. Tyler Christian
+4. Anthony Ghebranious
+5. Munayfah Albaqami
