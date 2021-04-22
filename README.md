@@ -6,7 +6,7 @@
 4. Anthony Ghebranious
 5. Munayfah Albaqami
 
-<br>
+
 ## Getting Started
 ### Installing Necessary Programs
 1. JupyterLab - In order to open the iPython notebooks used in this project you'll need to install JupyterLab. You can install this from https://jupyter.org/install  
