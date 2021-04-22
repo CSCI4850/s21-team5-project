@@ -1,4 +1,4 @@
-# Team 5 - DocuSort
+# DocuSort
 ## Summary
 This project uses convolution neural networks (CNNs) to "sort" 16 different types/classes of documents. We created our own random subset of 1,250 images from the RVL-CDIP (Ryerson Vision Lab Complex Document Information Processing) dataset, which consists of 400,000 grayscale images with 25,000 images per document class. We used 850 images for training, 210 images for validation, and 200 images for testing. We tested two different CNNs on our classification problem: one simple CNN and one CNN that uses transfer learning. The base model we used for transfer learning was the VGG16 model.
 
