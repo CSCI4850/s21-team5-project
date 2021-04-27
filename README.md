@@ -13,7 +13,7 @@ This project uses convolution neural networks (CNNs) to "sort" 16 different type
 (Mention something about how to clone our repository)
 
 ## Download the Dataset
-You can download our dataset from this link (add link)
+You can download our dataset from this link [download this](Project_images.zip)
 
 ## Demo
 In order to run the project demo, go to the demo folder and click on the Demo.ipynb. This file contains a guided walk-through of the project code and our results.
