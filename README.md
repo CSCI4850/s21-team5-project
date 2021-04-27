@@ -10,8 +10,6 @@ This project uses convolution neural networks (CNNs) to "sort" 16 different type
 1. JupyterLab - In order to open the iPython notebooks used in this project you'll need to install JupyterLab. You can install this from https://jupyter.org/install  
 2. Python 3 or higher is necessary to run the iPython notebooks. We reccommend using Python 3.7.6 since that's what we used for this project. Python 3 can be found here https://python.org/downloads
 
-(Mention something about how to clone our repository)
-
 ## Download the Dataset
 You can download our dataset from [this link](https://drive.google.com/file/d/13OVwU0i3hpzGrzK3XqdxrE6ULTBJliMc/view?usp=sharing)
 
