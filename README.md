@@ -11,7 +11,7 @@ This project uses convolution neural networks (CNNs) to "sort" 16 different type
 2. Python 3 or higher is necessary to run the iPython notebooks. We reccommend using Python 3.7.6 since that's what we used for this project. Python 3 can be found here https://python.org/downloads
 
 ## Download the Dataset
-You can download our dataset from [this link](https://drive.google.com/file/d/13OVwU0i3hpzGrzK3XqdxrE6ULTBJliMc/view?usp=sharing)
+After you download the dataset, add it to the demo folder in your local copy of our GitHub repository. You can download our dataset from [this link](https://drive.google.com/file/d/13OVwU0i3hpzGrzK3XqdxrE6ULTBJliMc/view?usp=sharing)
 
 ## Demo
 In order to run the project demo, go to the demo folder and click on the Demo.ipynb. This file contains a guided walk-through of the project code and our results.
