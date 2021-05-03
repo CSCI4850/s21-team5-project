@@ -22,3 +22,7 @@ In order to run the project demo, go to the demo folder and click on the Demo.ip
 3. Tyler Christian
 4. Anthony Ghebranious
 5. Munayfah Albaqami
+
+## References
+https://colab.research.google.com/github/kylemath/ml4a-guides/blob/master/notebooks/transfer-learning.ipynb#scrollTo=hLXTofcNYoa2
+https://www.cs.mtsu.edu/~jphillips/courses/CSCI4850-5850/private/Open_Lab_6.pdf
